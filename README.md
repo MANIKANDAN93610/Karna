@@ -195,3 +195,7 @@ Before getting started, ensure you have the following dependencies installed:
 
 ```bash
 pip install pandas numpy scikit-learn
+git clone https://github.com/yourusername/fake-news-detection-nlp.git
+cd fake-news-detection-nlp
+
+
